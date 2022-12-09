@@ -63,6 +63,6 @@
   </a>
   </p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HabibeC&theme=github)](https://github.com/HabibeC)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HabibeC&theme=tokyo-night)](https://github.com/HabibeC)
 </div>
 
